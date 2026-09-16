@@ -1,31 +1,50 @@
-# XLOOKUP Practice
+# Excel for Data Analysis
 
-**Date:** 15 Sep 2026
+**Started:** 14 Sep 2026
 
-## Syntax
-=XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found])
+## Topics Covered
 
-## Tasks Completed
+| Topic | Status | Date |
+|-------|--------|------|
+| Pivot Tables | ✅ | Before start |
+| Dashboard building | ✅ | Before start |
+| XLOOKUP | ✅ | 15 Sep 2026 |
+| INDEX + MATCH | ⏳ | 16 Sep 2026 |
+| Power Query | ⏳ | Week 3 |
+| SUMIFS / COUNTIFS | ⏳ | Week 3 |
 
-### Task 1: Basic XLOOKUP
-=XLOOKUP(F2, A2:A6, B2:B6)
-Returns the price of the product in F2.
+## Files in This Folder
 
-### Task 2: Not Found Handling
-=XLOOKUP(F7, A2:A6, B2:B6, "Not Found")
-Returns "Not Found" if the product doesn't exist.
+- **Shop_Sales_Analysis.xlsx** — Live weekly analysis of my shop sales
+  - Covers page
+  - Raw data table
+  - Week-by-week Pivot analysis
+  - Interactive dashboard
 
-### Task 3: Reverse Lookup
-=XLOOKUP(50, B2:B6, A2:A6)
-Finds which product costs 50.
+- **XLOOKUP_Practice.md** — Notes + formulas from Day 1
 
-### Task 4: Multi-Column Return
-=XLOOKUP("Pen", A2:A6, A2:B6)
-Returns both product name and price (spills into 2 cells).
+## Why Excel Matters for Gulf Jobs
 
-## Why XLOOKUP > VLOOKUP
+Almost every Gulf data analyst job description lists **Advanced Excel** as a requirement. Key skills they test:
 
-- Can look left (VLOOKUP can't)
-- No column index to break
-- Built-in not-found handling
-- Faster on large data
+- Pivot Tables
+- VLOOKUP / XLOOKUP
+- INDEX + MATCH
+- SUMIFS / COUNTIFS
+- Data cleaning
+- Dashboard building
+
+## My Shop Sales Project
+
+This is a real Excel project built from real business data. Updated weekly.
+
+**Workflow:**
+1. Daily sales data entry
+2. Weekly Pivot Table refresh
+3. Dashboard update
+4. GitHub push
+
+**Business questions it answers:**
+- Which products sold most this week?
+- What was the best day?
+- Which categories perform best?
