@@ -9,9 +9,9 @@
 | Pivot Tables | ✅ | Before start |
 | Dashboard building | ✅ | Before start |
 | XLOOKUP | ✅ | 15 Sep 2026 |
-| INDEX + MATCH | ⏳ | 16 Sep 2026 |
+| INDEX + MATCH | ✅ | 16 Sep 2026 |
 | Power Query | ⏳ | Week 3 |
-| SUMIFS / COUNTIFS | ⏳ | Week 3 |
+| SUMIFS / COUNTIFS | ✅ | Week 3 |
 
 ## Files in This Folder
 
