@@ -1,17 +1,15 @@
 # Excel for Data Analysis
 
-**Started:** 14 Sep 2026
-
 ## Topics Covered
 
-| Topic | Status | Date |
-|-------|--------|------|
-| Pivot Tables | ✅ | Before start |
-| Dashboard building | ✅ | Before start |
-| XLOOKUP | ✅ | 15 Sep 2026 |
-| INDEX + MATCH | ✅ | 16 Sep 2026 |
-| Power Query | ⏳ | Week 3 |
-| SUMIFS / COUNTIFS | ✅ | Week 3 |
+| Topic | Status
+|-------|--------|
+| Pivot Tables | ✅
+| Dashboard building | ✅
+| XLOOKUP | ✅
+| INDEX + MATCH | ✅ 
+| Power Query | ⏳
+| SUMIFS / COUNTIFS | ✅
 
 ## Files in This Folder
 
